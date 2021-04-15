@@ -20,5 +20,5 @@ We used pandas-profiling to get the report of our data. The report gave us bette
 - Modeling: Linear Regression, Ridge Regression, Decision Tree, XGBoost, Random Forest, KNN
 - Evaluation: Splitting training portfolios intro training and holdout sets; Calculate Root Mean Squared Error (RMSE) and Mean Absolute Error (MAE; Predict loss amount on the testing portfolios; Calculate Natural Logarithm 
 
--Predictions/Results
+- Predictions/Results
 ![](images/kaggle_competition.png)
